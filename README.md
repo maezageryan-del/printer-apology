@@ -10,7 +10,7 @@ Entry for [The Printer Apology](https://make.fun/bounty/u-eager-stork-81-9647-th
 
 > Sorry I jammed. I printed this apology on the back of your report. The front is still inside me.
 
-96 characters / 96 bytes, one line, plain ASCII.
+96 characters / 96 bytes, one line, plain ASCII. Verified locally: `python3 main.py` with `MAKEFUN_OUTPUT_DIR` set exits 0 and writes exactly these 96 bytes (sha256 `e60f28fe88bb50f0385432800f8b5457966cc07974a43aafcab4f181279338e1`, no trailing newline).
 
 The printer prints its apology on the back of the very report it jammed — and the front of that report is still stuck inside it. The apology is a physical object, and the jam is described from inside the machine for once, not from the humans' side.
 
